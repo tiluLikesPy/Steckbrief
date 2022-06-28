@@ -1,0 +1,83 @@
+html {
+	background-image: url("https://cdn.pixabay.com/photo/2018/04/12/21/10/cube-3314811_960_720.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: Arial;
+	color: white;
+}
+
+body {
+	text-align: center;
+}
+
+#ues {
+	font-family: Arial Black;
+	margin-bottom: 40px;
+	font-size: 60px;
+}
+
+
+tr {
+	background-color: rgb(250, 35, 64);
+	border-color: black;
+}
+
+td {
+	height: 35px;
+	font-size: 20px;
+	text-align: center;
+}
+
+table {
+	margin-bottom: 40px;
+	background-color: black;
+	width: 40%;
+	height: 10%;
+}
+
+.jump:hover {
+	background-color: rgb(17, 36, 8);
+	color: white;
+}
+
+#age {
+	padding-top: 20px;
+}
+
+.underUes {
+	font-size: 50px; font-family: Arial Black;
+}
+
+#pizza {
+	width: 20%;
+	height: 20%;
+	border: 8px solid #555;
+}
+
+footer {
+	background-color: rgb(102, 102, 102);
+	height: 200px;
+	border: 8px solid #555;
+	margin-bottom: 10px;
+	margin-top: 250px;
+}
+
+#back {
+	height: 200px;
+	margin-left: 200px;
+}
+
+footer:hover {
+	background-color: rgb(173, 173, 173);
+}
+
+#footerIMG {
+	height: 120px;
+	margin-bottom: 40px;
+}
+
+#footerText {
+	font-size: 50px;
+}
